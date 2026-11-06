@@ -1,0 +1,5 @@
+# Generati quando l'app gira.
+# indice/ contiene il TESTO dei documenti caricati: non va mai pubblicato.
+indice/
+__pycache__/
+.DS_Store

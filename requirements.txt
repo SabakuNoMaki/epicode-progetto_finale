@@ -1,0 +1,17 @@
+# --- Necessari per l'app ---
+streamlit
+sentence-transformers
+pypdf
+python-pptx
+python-docx
+openai
+numpy
+
+# Fa accorgere Streamlit delle modifiche ai file: senza, dopo aver
+# modificato il codice puoi ottenere errori strani finche' non riavvii.
+watchdog
+
+# --- Necessari solo per validazione.ipynb ---
+pandas
+matplotlib
+jupyter

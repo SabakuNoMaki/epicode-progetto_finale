@@ -1,0 +1,13 @@
+# Tema di base di Streamlit: e' quello che viene dipinto PRIMA che arrivi il
+# foglio di stile dell'app, e colora le parti interne dei widget che il CSS
+# non raggiunge. Va quindi tenuto allineato al tema predefinito (scuro).
+[theme]
+base = "dark"
+primaryColor = "#2DD4BF"
+backgroundColor = "#0D1017"
+secondaryBackgroundColor = "#12161E"
+textColor = "#E6E9EF"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
